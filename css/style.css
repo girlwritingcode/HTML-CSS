@@ -3,14 +3,29 @@ body {
     color: #676858;
     font-weight: 300;
 }
-.container {margin-bottom: 20px;}
+
+.container {
+    margin-bottom: 20px;
+}
 
 #app-list img {
     height: 200px;
-    width:400px;
+    width: 400px;
 }
 
-.text-muted {color: #BCBBBB;}
-.text-thin {font-weight: 100;}
-.title-super {font-size: 60px;}
-.title-logo {margin-top: 20px;}
+.text-muted {
+    color: #BCBBBB;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-top: 20px;
+    width: 80px;
+}
